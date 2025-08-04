@@ -1,43 +1,63 @@
-<h1 align="center">Hi 👋, I'm Sadra Jalili</h1>
+
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=40F9F9&width=520&lines=Hi,+I'm+Sadra+Jalili;Photonics+Student+%7C+C%23,+Linux;Exploring+QED,+Photonics;" alt="Typing SVG" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+```bash
+sadra@EndeavourOS
+----------------------------
+🎓 MSc in Photonics @ SBU
+💻 Linux-native C# / .NET Developer
+🧠 Interested in Quantum Electrodynamics & Julia
+🐧 Arch Linux (EndeavourOS) User
+----------------------------
+````
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 💬 About Me
-Hello! I'm a Shahid Beheshti University (SBU) **photonics** student and a passionate **C# developer**.
-I primarily code in C# but always explore new languages and technologies.
-My primary development environment is the latest .NET version, and I enjoy working on various programming projects.
-I love customizing and optimizing my workflow with **Linux** and **bash**.
-I am deeply interested in the study and application of photonics. If you're passionate about light and its properties, let's connect!
-  
-## ⚡ Skills and Expertise
 
-- **Languages**: 
-  - [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  - [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-  - [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-- **Frameworks and Libraries**:
-  - [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-  - [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://docs.microsoft.com/en-us/aspnet/core/)
-
-- **Tools and Platforms**:
-  - [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-  - [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-  - [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-67429E?style=flat&logo=endeavour&logoColor=white)](https://endeavouros.com/)
-
-<h3 align="left">🔭 I’m currently learning:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-    
-## 📫 How to reach me
-- **Email**: [sadra.jl79@proton.me](mailto:sadra.jl79@proton.me)
-- **LinkedIn**: [sadra-jalili](https://linkedin.com/in/sadra-jalili)
-- **Telegram**: [sjl1331](https://t.me/sjl1331)
-- **Discord**: <a href="https://discord.gg/398499194932953088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="398499194932953088" height="30" width="40" /></a>
-
-Feel free to reach out for collaboration, discussion, or just to share thoughts on photonics, programming.
+I’m a C# developer and photonics MSc student working at the intersection of software and light–matter interaction.
+My primary focus is **developing high-performance, Linux-native applications in .NET** while studying **quantum electrodynamics and photonic systems**.
+Recently exploring **Julia** for scientific computing and numerical simulations.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadra-jl&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="sadra-jl" /></p>
+## ⚡ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadra-jl&show_icons=true&theme=cobalt&locale=en" alt="sadra-jl" /></p>
+* **Languages**: C#, Julia, Python, Bash
+* **Frameworks**: ASP.NET Core
+* **Tools**: Git, Docker
+* **OS**: EndeavourOS (Arch Linux)
+* **Academic Interests**: Photonics, QED, Quantum Optics
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=sadra-jl&label=Profile%20views&color=0e75b6&style=flat" alt="sadra-jl" /> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadra-jl" alt="sadra-jl" /></a> </p>
+## 📫 Contact
+
+* 📧 [sadra.jl79@proton.me](mailto:sadra.jl79@proton.me)
+* 🔗 [LinkedIn](https://linkedin.com/in/sadra-jalili)
+* 💬 [Telegram](https://t.me/sjl1331)
+* 🕹️ Discord: `sadra_jl`
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 📊 GitHub Overview
+
+<details>
+  <summary>Click to expand GitHub stats & trophies</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=sadra-jl&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+        </td>
+        <td>
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadra-jl&layout=compact&langs_count=8&theme=onedark&hide_border=true" />
+        </td>
+      </tr>
+    </table>
+    <br />
+    <img src="https://github-profile-trophy.vercel.app/?username=sadra-jl&theme=onedark&row=1&column=6&no-frame=true&no-bg=true&margin-w=10" />
+  </div>
+</details>
